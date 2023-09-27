@@ -7,9 +7,9 @@ Meu nome é *Paulo Eduardo Soares Rezende* nascido em Passos-MG, atualmente esto
   * Na área de Programação, com ênfase em PHP;
   * Na área de Banco de Dados, com ênfase em PostgreSQL.
 
-### Vida acadêmia
+### Vida acadêmica
 
-Meu vida acadêmia se passou por:
+Meu vida acadêmica se passou por:
 1.	2010... 2013	Ensino Fundamental (1° grau)	Colégio Tiradentes da PMMG - Unidade Passos
 2.	2013... 2016	Ensino Fundamental (1° grau)	EE CEL PAIVA	 
 3.	2017... 2019	Ensino Médio (2° grau)	Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais	 
@@ -18,3 +18,5 @@ Meu vida acadêmia se passou por:
 Em 2016 fui medalhista de Bronze da 12ª OBMEP e no mesmo ano fiz estágio no Núcleo de Tecnologia de Informação do IFSUL de Minas e atualmente faço estágio na ProgenBR (antiga RF)
 
 [Link currículo](https://lattes.cnpq.br/6212969601759593)
+
+![Isso tudo é o Tsukuyomi](1500x500.jfif)
